@@ -22,10 +22,10 @@ const Params = {
     Folder_ID_FinalSheet: '1lsezdGYLHU3Dq5vuo7vzk32T2l6cAsYU',
   },
   EMAIL: {
-    Destinatarios: 'gerente.proyectos@ramdesolidscontrol.com',
-    GerenteGeneral:'auxiliar.administrativa@ramdesolidscontrol.com,coordinadorhseq@ramdesolidscontrol.com',
+    Destinatarios: '',
+    GerenteGeneral:'',
     Asunto: 'Reporte de Tarjetas Cargado con Exito',
-    Gerente: 'Gonzalo Barón',
+    Gerente: '',
     Cargo: 'Gerente de Proyectos',
   }
 }
